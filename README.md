@@ -1,2 +1,5 @@
-Tamara Lucky Widodo 
-6701190015
+**assessment 1**
+
+Nama: Tamara Lucky Widodo
+
+Nim: 6701190015
